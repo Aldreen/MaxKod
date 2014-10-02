@@ -61,8 +61,8 @@ int main(int argc, char *argv[]){
   // Main loop
   
   while (1)
-	int chosen = getOpt()
-	doSmt(chosen)
+	int chosen = getOpt();
+	doSmt(chosen);
 	
   
 

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//test
 int doSmt(int option)
 	switch(option)
 	 case 1:
