@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+hallo?
+
 typedef struct node{
   char *key;
   char *value;
